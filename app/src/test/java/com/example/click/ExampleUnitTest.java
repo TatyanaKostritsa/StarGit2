@@ -1,4 +1,4 @@
-package com.example.stargit2;
+package com.example.click;
 
 import org.junit.Test;
 
